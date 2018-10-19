@@ -1,0 +1,16 @@
+{
+  "name": "nodewordguess",
+  "version": "1.0.0",
+  "description": "Week 11 homework",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "read-each-line-sync": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Carpenter",
+  "license": "ISC"
+}
